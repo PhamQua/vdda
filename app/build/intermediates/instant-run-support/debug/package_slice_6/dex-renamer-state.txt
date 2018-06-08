@@ -1,0 +1,4 @@
+#Sun Mar 25 07:50:56 ICT 2018
+base.0=E\:\\android\\vdda\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6
+renamed.0=classes.dex
+file.0=E\:\\android\\vdda\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_6\\classes.dex

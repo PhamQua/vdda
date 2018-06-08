@@ -1,0 +1,566 @@
+[
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loa.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\loa.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manhinh3.jpg",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\manhinh3.jpg"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\themmang.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\themmang.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bomnho.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\bomnho.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sodomanh.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\sodomanh.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pause.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\pause.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bom.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\bom.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\diemcao.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\diemcao.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xam.PNG",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\xam.PNG"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mickey.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\mickey.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ovuong.PNG",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\ovuong.PNG"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bay.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\bay.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ovuong.PNG",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\ovuong.PNG"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\xam.PNG",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\xam.PNG"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lua.PNG",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\lua.PNG"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\somang.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\somang.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reload1.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\reload1.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bom.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\bom.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sotangbom.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\sotangbom.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help1.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\help1.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snackbar_background.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\b59f633061318bc9290b78e8f771a9d4af005373\\output\\res\\drawable\\snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loa.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\loa.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play2.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\play2.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\congra.PNG",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\congra.PNG"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\snackbar_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\93c6475bd74f67037d72c497559ad7cf26e8dfa3\\output\\res\\drawable\\snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tron.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\tron.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\key.PNG",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\key.PNG"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bay.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\bay.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gach.PNG",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\gach.PNG"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sogiay.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\sogiay.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tangtocdo.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\tangtocdo.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_background.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\b59f633061318bc9290b78e8f771a9d4af005373\\output\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quaman.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\quaman.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bomnho.gif",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\bomnho.gif"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tangtocdo.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\tangtocdo.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tangbom.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\tangbom.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bo.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\bo.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\somang.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\somang.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\congra.PNG",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\congra.PNG"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help1.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\help1.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manhinh3.jpg",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\manhinh3.jpg"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tangdomanh.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\tangdomanh.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sodomanh.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\sodomanh.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sotangbom.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\sotangbom.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fab_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\93c6475bd74f67037d72c497559ad7cf26e8dfa3\\output\\res\\drawable\\fab_background.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gach.PNG",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\gach.PNG"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mickey.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\mickey.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tron.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\tron.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tangbom.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\tangbom.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tangdomanh.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\tangdomanh.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pause.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\pause.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bomnho.gif",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\bomnho.gif"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bo.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\bo.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\quaman.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\quaman.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\exit.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\exit.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sogiay.png",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\sogiay.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lua.PNG",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\lua.PNG"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\themmang.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\themmang.png"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play2.png",
+        "source": "E:\\vdda\\app\\src\\main\\res\\drawable\\play2.png"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\46cc8fb545abb0ea014a428a8ff2348d3119e67f\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\key.PNG",
+        "source": "E:\\android\\vdda\\app\\src\\main\\res\\drawable\\key.PNG"
+    },
+    {
+        "merged": "E:\\android\\vdda\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\pc\\.android\\build-cache\\09219873fd9a721e03835be866643cd14a5a3343\\output\\res\\drawable\\abc_btn_check_material.xml"
+    }
+]

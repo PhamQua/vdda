@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/manhinh3"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Button
+        android:id="@+id/idplaygame"
+        android:layout_marginTop="150dp"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="260dp"
+        android:background="@drawable/play2"
+
+        />
+    <Button
+        android:id="@+id/idhelp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="70dp"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:background="@drawable/help1"
+
+        />
+
+    <Button
+        android:id="@+id/idscore"
+        android:layout_marginTop="12dp"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:background="@drawable/diemcao"
+
+        android:layout_below="@+id/idback"
+        android:layout_alignLeft="@+id/idhelp"
+        android:layout_alignStart="@+id/idhelp" />
+    <Button
+        android:id="@+id/idback"
+        android:layout_marginTop="160dp"
+        android:layout_marginLeft="35dp"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:background="@drawable/back"
+        />
+</RelativeLayout>
